@@ -1,0 +1,35 @@
+,country,name,ncode,country_name,country_id,v2x_libdem,GDP_2017
+1,8,Albania,AL,Albania,12,0.43,4526
+2,31,Azerbaijan,AZ,Azerbaijan,106,0.069,4218
+3,40,Austria,AT,Austria,144,0.778,47321
+4,51,Armenia,AM,Armenia,105,0.227,3869
+5,70,Bosnia and Herzegovina,BA,Bosnia and Herzegovina,150,0.389,5160
+6,100,Bulgaria,BG,Bulgaria,152,0.532,8414
+7,112,Belarus,BY,Belarus,107,0.112,5779
+8,191,Croatia,HR,Croatia,154,0.621,13628
+9,203,Czech Republic,CZ,Czech Republic,157,0.746,20667
+10,208,Denmark,DK,Denmark,158,0.887,57773
+11,233,Estonia,EE,Estonia,161,0.852,20431
+12,246,Finland,FI,Finland,163,0.83,46437
+13,250,France,FR,France,76,0.824,40054
+14,268,Georgia,GE,Georgia,118,0.545,4359
+15,276,Germany,DE,Germany,77,0.841,44637
+16,348,Hungary,HU,Hungary,210,0.443,14609
+17,352,Iceland,IS,Iceland,168,0.794,73085
+18,380,Italy,IT,Italy,82,0.803,32649
+19,440,Lithuania,LT,Lithuania,173,0.758,16879
+20,499,Montenegro,ME,Montenegro,183,0.351,7800
+21,528,Netherlands,NL,Netherlands,91,0.832,48800
+22,578,Norway,NO,Norway,186,0.862,75307
+23,616,Poland,PL,Poland,17,0.553,13869
+24,620,Portugal,PT,Portugal,21,0.849,21483
+25,642,Romania,RO,Romania,190,0.523,10777
+26,643,Russia,RU,Russia,11,0.113,10724
+27,688,Serbia,RS,Serbia,198,0.299,6293
+28,703,Slovak Republic,SK,Slovakia,201,0.726,17544
+29,705,Slovenia,SI,Slovenia,202,0.782,23511
+30,724,Spain,ES,Spain,96,0.767,28197
+31,752,Sweden,SE,Sweden,5,0.89,53459
+32,756,Switzerland,CH,Switzerland,6,0.859,83695
+33,807,North Macedonia,MK,North Macedonia,176,0.363,5462
+34,826,Great Britain,GB,United Kingdom,101,0.8,40904
