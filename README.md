@@ -16,5 +16,6 @@
 
 7_figure4.R: Rscript for making Figure 4.
 
-8_tableA1.R: Rscript for making Table A1.
-country_new.csv: the data file related to social contexts by eacn country (i.e., Liberal Democracy Index and GDP per capita).
+8_tableA1.R: Rscript for making 
+
+Table A1. country_new.csv: the data file related to social contexts by eacn country (i.e., Liberal Democracy Index and GDP per capita).
