@@ -1,4 +1,4 @@
-# sudo_2022b: This folder provides R scripts, do file, and data file  for Sudo(2022b).
+# sudo_2022b: This folder provides R scripts, do file, and data file  for Sudo(2022b) published in Socius.
 
 0_dataA.R: Rscript for making the dataset for analyses. 
 
